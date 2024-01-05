@@ -1,0 +1,10 @@
+export const bgColor = "#ffffff";
+export const secondaryColor = "#F4F7FE";
+export const homeSectionColor = "#e4e9f7";
+export const logoTitleColor = "#111";
+export const iconsColor = "#111";
+export const itemsTooltipColor = "#e4e9f7";
+export const searchInputTextColor = "#ffffff";
+export const menuItemsHoverColor = "#212121";
+export const menuItemsTextHoverColor = "#ffffff";
+export const menuItemsTextColor = "#111";

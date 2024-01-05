@@ -1,0 +1,28 @@
+{
+  "name": "starterscode",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && postcss src/styles/tailwind.css -o dist/styles.css",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.1.1",
+    "autoprefixer": "^10.4.16",
+    "path": "^0.12.7",
+    "postcss": "^8.4.32",
+    "swiper": "^11.0.5",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.69.5",
+    "stylus": "^0.62.0",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.8"
+  }
+}
